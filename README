@@ -1,0 +1,3 @@
+Category on NSFileManager to set the "do not backup" attribute on an item on the filesystem at a given URL.
+
+For an explanation of the technical background behind this, please see https://developer.apple.com/library/ios/#qa/qa1719/_index.html (iOS Developer Program membership required).
